@@ -1,14 +1,14 @@
-Visit the site to see the website LIVE = " https://sayancr777-tesla-landingpage.netlify.app/ "
+Visit the site to see the website LIVE = " https://sayancr777-airbnb-clone.netlify.app/ "
 
 <div align="center">
   <img alt="Logo" src="https://images.squarespace-cdn.com/content/58028c1e29687f239061ebb1/1496373166155-W7AUVUQBPJSZ1UFCB4OQ/airbnb_logo.png?content-type=image%2Fpng" width="150" />
 </div>
 
 <h1 align="center">
-  tesla.com/Landing-Page
+  airbnb.com/Landing-Page
 </h1>
 <p align="center">
-  This project is made using ReactJS, Redux, HTML and CSS
+  This project is made using ReactJS, HTML and CSS
 </p>
 <p align="center">
   <img src="https://media0.giphy.com/media/Yx17W03kc8QSsbLBcb/giphy.gif?cid=ecf05e47w5pl0zoowssommrnea77o2x0utbsogisnmu2bfrr&rid=giphy.gif&ct=s" width="45">&nbsp;
