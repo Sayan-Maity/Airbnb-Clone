@@ -1,7 +1,7 @@
 Visit the site to see the website LIVE = " https://sayancr777-tesla-landingpage.netlify.app/ "
 
 <div align="center">
-  <img alt="Logo" src="https://images.squarespace-cdn.com/content/58028c1e29687f239061ebb1/1496373166155-W7AUVUQBPJSZ1UFCB4OQ/airbnb_logo.png?content-type=image%2Fpng" width="250" />
+  <img alt="Logo" src="https://images.squarespace-cdn.com/content/58028c1e29687f239061ebb1/1496373166155-W7AUVUQBPJSZ1UFCB4OQ/airbnb_logo.png?content-type=image%2Fpng" width="150" />
 </div>
 
 <h1 align="center">
